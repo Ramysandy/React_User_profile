@@ -5,6 +5,7 @@
 This repository contains two distinct React front-end projects:  **User Dashboard & Profile Page**. 
 
 ## Project Overview
+<img width="299" alt="Screenshot 2025-03-18 215835" src="https://github.com/user-attachments/assets/93d50b63-0c53-4cc7-b0c1-fabd67016810" />
 
 ### Price Alert Setup Page
 
