@@ -11,7 +11,7 @@ Deal Scout is a modern e-commerce platform focused on price comparison, built us
 **Installation Steps:**  
 1. Clone the repository:
    ```bash
-   git clone https://github.com/deal-scout.git
+   git clone https://github.com/helinyi/SoftwareEngineeringTeamG7.git
    cd deal-scout
    ```
 2. Install dependencies:
